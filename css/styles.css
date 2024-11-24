@@ -1,0 +1,108 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    color: black;
+    background-color: white;
+}
+
+header {
+    background-color: white;
+}
+
+.navigation-elem .logo-web-pieces {
+    color:#4D5AE5;
+}
+
+.navigation-elem .logo {
+    color: #2E2F42;
+    text-decoration: none;
+}
+
+.navigation-elem .navigation-link .page-link {
+    color: #2E2F42;
+    text-decoration: none;
+}
+
+.navigation-elem .navigation-link .page-link:hover {
+    color: #404BBF;
+}
+
+.address-elements .address-link {
+    color: #434455;
+    text-decoration: none;
+}
+
+.address-elements .address-link:hover {
+    color: #404BBF;
+}
+
+h2{
+    color: #2E2F42;
+    font-weight: 700;
+    font-size: 36px;
+    letter-spacing: 2%;
+}
+
+h3 {
+    color: #2E2F42;
+    font-weight: 500;
+    font-size: 20px;
+    letter-spacing: 2%;
+}
+
+.page-title {
+    color: white;
+    background-color: #2E2F42;
+    font-weight: 700;
+    font-size: 56px;
+    letter-spacing: 2%;
+    line-height: 60px;
+    margin: 20px 0;
+    text-align: center;
+}
+
+.order-button {
+    color: white;
+    background-color: #4D5AE5;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 4%;
+}
+
+.order-button:hover {
+    color: white;
+    background-color: #404BBF;
+}
+
+ul {
+    list-style-type: none;
+}
+
+p {
+    color: #434455;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 2%;
+}
+
+.our-team-section {
+    background-color: #F4F4FD;
+}
+
+.logo-footer {
+    color:#F4F4FD;
+    text-decoration: none;
+}
+
+.logo-web-pieces {
+    color:#4D5AE5;
+}
+
+.footer-text {
+    color: #F4F4FD;
+}
+
+.footer-section {
+    background-color: #2E2F42;
+}
