@@ -58,7 +58,7 @@ header {
 }
 
 .address-elements .address-link:hover,
-.address-elements .address-link:active {
+.address-elements .address-link:focus {
     color: #404BBF;
 }
 
