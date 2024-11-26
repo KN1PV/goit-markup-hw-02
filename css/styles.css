@@ -40,7 +40,7 @@ header {
 }
 
 .navigation-elem .navigation-link .page-link:hover,
-.navigation-elem .navigation-link .page-link:active {
+.navigation-elem .navigation-link .page-link:focus {
     color: #404bbf;
 }
 
